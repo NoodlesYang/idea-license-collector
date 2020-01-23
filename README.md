@@ -20,4 +20,5 @@
 #### 咱不生产码，只是渠道的搬运工~ (ps:侵删)
 
 ## 友情链接
-[IDEA中很厉害的插件 开发必备利器](https://github.com/baibisen/idea-plugins-collector)
+[IDEA中很厉害的插件 开发必备利器](https://github.com/baibisen/idea-plugins-collector)  
+[idea激活办法汇总](https://github.com/baibisen/idea-license-collector)
