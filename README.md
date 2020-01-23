@@ -18,6 +18,6 @@
 
 ## 如果觉得有点帮助 请给点个star鼓励下~
 #### 咱不生产码，只是渠道的搬运工~ (ps:侵删)
-
+---
 ### 友情链接
 [IDEA中很厉害的插件 开发必备利器](https://github.com/baibisen/idea-plugins-collector)
