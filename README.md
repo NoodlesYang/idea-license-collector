@@ -1,4 +1,5 @@
 # idea激活办法汇总 (非强行破解方法)
+[idea中很厉害的插件 开发必备利器](https://github.com/baibisen/idea-plugins-collector)  
 ### 方法1: 直接获取
 网址:  http://lookdiv.com/
 密钥:  lookdiv.com
@@ -18,7 +19,3 @@
 
 ## 如果觉得有点帮助 请给点个star鼓励下~
 #### 咱不生产码，只是渠道的搬运工~ (ps:侵删)
-
-## 友情链接
-[idea中很厉害的插件 开发必备利器](https://github.com/baibisen/idea-plugins-collector)  
-[idea激活办法汇总](https://github.com/baibisen/idea-license-collector)
