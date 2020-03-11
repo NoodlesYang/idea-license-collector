@@ -1,7 +1,7 @@
 # idea激活办法汇总 (非强行破解方法)
 [idea中很厉害的插件 开发必备利器(点我查看)](https://github.com/baibisen/idea-plugins-collector)  
 ### 实时更新直接可用license
-[2020-03-11最新license](https://www.baidu.com)
+[2020-03-11最新license](https://github.com/baibisen/idea-license-collector/blob/master/files/license_20200311)
 
 ### 方法1: 直接获取
 网址:  http://lookdiv.com/
